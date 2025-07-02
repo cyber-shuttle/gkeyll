@@ -1,13 +1,18 @@
 project:
   name: "Gkeyll"
-  description: "Collection of examples for simulating plasma physics"
-  homepage: https://github.com/cyber-shuttle/gkeyll
+  description: "Collection of examples for simulating space weather and plasma physics"
+  homepage: https://vlab.plasmascience.scigap.org/
   authors:
     - pjaya001@odu.edu
     - jjuno@pppl.gov
     - tenbarge@princeton.edu
+    - smithc11@rpi.edu
   tags:
     - Gkeyll
+    - gkyl
+    - 'Plasma Science Virtual Laboratory (VLab)'
+    - 'space weather'
+    - 'plasma physics'
 
 workspace:
   resources:
