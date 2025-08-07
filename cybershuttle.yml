@@ -16,10 +16,10 @@ project:
 
 workspace:
   resources:
-    min_cpu: 4
+    min_cpu: 1
     min_mem: 4096
-    min_gpu: 1
-    gpu_mem: 1024
+    min_gpu: 0
+    gpu_mem: 0
   model_collection: []
   data_collection: []
 
@@ -30,3 +30,5 @@ additional_dependencies:
     - pip
   pip:
     - postgkyl
+    - matplotlib
+    - numpy
